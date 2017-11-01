@@ -24,20 +24,20 @@
             <br> <br> <hr> <br> <br>
             <label>
                 <h3>
-                    A SmartTech é uma empresa de Tecnologia fundada por <a href="equip.html">Ariano Giacomozzi</a> e <a href="equip.html">Ricardo Davi Batista</a> em 09/10/2011<br>
+                    A SmartTech é uma empresa de Tecnologia fundada por <a href="equip.php">Ariano Giacomozzi</a> e <a href="equip.php">Ricardo Davi Batista</a> em 09/10/2011<br>
                     Atualmente a SmartTech já teve muito avanço desde sua criação, tendo mais de 50 Funcionários em 2 Filiais [Rio do Sul - SC e Florianópolis - SC]<br>
                     <br>
                     A SmartTech está com vários projetos em andamento, todos para melhorar a qualidade da empresa para um melhor atendimento e melhores preços.<br>
                     Uma das maiores novidades em nossa empresa é nosso sistema de promoções que ocorrem em todos os fins de semana e feriados em vários de nossos <a href="produ.html">Produtos</a><br>
                     <br>
                     E Como sempre, lhe desejamos boas vindas e boas compras em nosso site!
-                    <h3>
-                        </label>
-                        <br> <br> <hr> <br>
-                        <img class="imagem" src="img/brancohd.png">
-                        </div>
-                        <footer>
-                            <label>Todos os Direitos Reservados @ <a href="index.html">SmartTech</a> 2011-2017 &copy</label>
-                        </footer>
-                        </body>
-                        </html>
+                </h3>
+            </label>
+            <br> <br> <hr> <br>
+            <img class="imagem" src="img/brancohd.png">
+        </div>
+        <footer>
+            <label>Todos os Direitos Reservados @ <a href="index.php">SmartTech</a> 2011-2017 &copy</label>
+        </footer>
+    </body>
+</html>

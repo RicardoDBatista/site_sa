@@ -14,7 +14,7 @@
                 <li><a href="empre.php">Empresa</a></li>
                 <li><a href="equip.php">Equipe</a></li>
                 <li><a href="pr_de.php">Prog. de Descarte</a></li>
-                <li><a href="f.a.q.php" class="active">F.A.Q</a></li>
+                <li><a href="f_a_q.php" class="active">F.A.Q</a></li>
             </ul>
         </header>
         <div class="conteudo">
@@ -23,10 +23,10 @@
             <br>
             <div class="faq">
                 <label>
-                    <h3 align="left">
+                    <h3 align="left" style="cursor: text;">
                         <br>
                         &nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa01.jpg">
                         José Silva
                         <br>
                         <br>
@@ -37,7 +37,7 @@
                         <hr>
                         <br>
                         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa02.jpg">
                         [Administrador] Ariano Giacomozzi
                         <br>
                         <br>
@@ -54,7 +54,7 @@
                     <h3 align="left">
                         <br>
                         &nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa01.jpg">
                         Carlos Almeida
                         <br>
                         <br>
@@ -65,7 +65,7 @@
                         <hr>
                         <br>
                         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa02.jpg">
                         [Administrador] Ariano Giacomozzi
                         <br>
                         <br>
@@ -82,7 +82,7 @@
                     <h3 align="left">
                         <br>
                         &nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa01.jpg">
                         Eduardo Ferreira
                         <br>
                         <br>
@@ -93,7 +93,7 @@
                         <hr>
                         <br>
                         &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-                        <img class="imagem2" src="img/anonimo.jpg">
+                        <img class="imagem2" src="img/pessoa02.jpg">
                         [Administrador] Ariano Giacomozzi
                         <br>
                         <br>
@@ -105,9 +105,7 @@
             </div>
         </div>
         <footer>
-            <label>Todos os Direitos Reservados @ <a href="index.html">SmartTech</a> 2011-2017 &copy</label>
+            <label>Todos os Direitos Reservados @ <a href="index.php">SmartTech</a> 2011-2017 &copy</label>
         </footer>
     </body>
 </html>
-
-<label class="cor1">Ricardo <label class="cor2">Davi</label></label>

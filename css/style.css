@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    color: #fff;
+    color: black;
 }
 body {
     font-family: Helvetica;
@@ -12,72 +12,71 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #33cc00;
+    border: 1px solid #2db300;
 }
 footer {
     list-style-type: none;
     margin: 0;
     padding: 14px 16px;
     overflow: hidden;
-    background-color: #333;
+    background-color: #33cc00;
+    border: 1px solid #2db300;
     text-align: center
 }
 li {
     float: left;
 }
-
 li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
-
 li a:hover:not(.active) {
-    background-color: #111;
+    background-color: #39e600;
 }
-
 .active {
-    background-color: #4CAF50;
-}
-.active:hover {
-    background-color: #46A049;
+    background-color: #2db300;
 }
 .conteudo {
     padding: 10px;
     text-align: center;
     text-decoration: none;
-    background-color: #666;
-    border: 2px solid #333;
+    background-color: #fff;//#b3b3b3;
+    border: 1px solid #2db300;
 }
 .imagem {
     width: 1280px;
     height: 360px;
+    border: 1px solid black; //???????????????
 }
 hr {
     border: 1px solid #333;
 }
 .gallery {
     margin: 1px;
-    border: 2px solid #333;
-    background-color: #808080;
+    border: 2px solid #e6e6e6;
+    background-color: #f2f2f2;
     float: left;
     width: 32.94%;
 }
 .gallery:nth-child(even) {
     margin: 1px;
-    border: 2px solid #333;
-    background-color: #909090;
+    border: 2px solid #d9d9d9;
+    background-color: #e6e6e6;
     float: left;
     width: 32.83%;
 }
 .faq {
-    background-color: #888;
-    border: 2px solid #333;
+    background-color: #f2f2f2;
+    border: 2px solid #e6e6e6;
+    color: #fff;
 }
 .imagem2 {
     width: 48px;
     height: 48px;
+    border: 2px solid #bfbfbf;
 }
 .imagem3 {
     width: 1280px;

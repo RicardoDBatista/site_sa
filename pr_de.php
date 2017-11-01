@@ -20,18 +20,17 @@
         <div class="conteudo">
             <h1>A Empresa SmartTech</h1>
             <br> <hr> <br>
-            <img class="imagem3" src="img/prog_descarte.jpg">
+                <img class="imagem3" src="img/prog_descarte.jpg">
             <label>
                 <h3>
                     <br>
                     <hr>
                     <br>
-                    A SmartTech é uma empresa relacionada as tecnologias da computação,<br>
-                    desde computadores inteiros a pronta entrega a até mesmo uma cadeira ou uma mesa gamer!<br>
-                    <br>
-                    Como qualquer empresa de confiança a SmartTech visa a qualidade desde o atendimento até a entrega,<br>
-                    A SmartTech tem 2 Filiais no Estado de Santa Catarina, uma em Rio do Sul e outra em Florianópolis,<br>
-                    temos a capacidade de entregar em todo o Brasil.<br>
+                    <h3>
+                        Educar e Concientizar para o descarte correto de Resíduos perigosos.<br>
+                        O material, classificado como resíduo perigoso, constitui risco ambiental,<br>
+                        quando descartado de forma indevida no lixo doméstico.<br>
+                    </h3>
                     <br>
                     <hr>
                     <br>
@@ -39,7 +38,7 @@
             </label>
         </div>
         <footer>
-            <label>Todos os Direitos Reservados @ <a href="index.html">SmartTech</a> 2011-2017 &copy</label>
+            <label>Todos os Direitos Reservados @ <a href="index.php">SmartTech</a> 2011-2017 &copy</label>
         </footer>
     </body>
 </html>

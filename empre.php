@@ -42,7 +42,7 @@
 
         </div>
         <footer>
-            <label>Todos os Direitos Reservados @ <a href="index.html">SmartTech</a> 2011-2017 &copy</label>
+            <label>Todos os Direitos Reservados @ <a href="index.php">SmartTech</a> 2011-2017 &copy</label>
         </footer>
     </body>
 </html>
