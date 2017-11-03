@@ -2,10 +2,74 @@
 <html>
     <head>
         <meta charset="utf-8" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" type="text/css" href="css/style.css">
         <title>Empresa - SmartTech</title>
     </head>
-    <body>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            color: #FFF;
+        }
+        body {
+            font-family: Helvetica;
+            font-size: 12px;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #0066ff;
+            border: 1px solid #005ce6;
+        }
+        footer {
+            list-style-type: none;
+            margin: 0;
+            padding: 14px 16px;
+            overflow: hidden;
+            background-color: #0066ff;
+            border: 1px solid #005ce6;
+            text-align: center
+        }
+        li {
+            float: left;
+        }
+        li a {
+            display: block;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        li a:hover:not(.active) {
+            background-color: #005ce6;
+        }
+        .active {
+            background-color: #005ce6;
+        }
+        .conteudo {
+            padding: 10px;
+            text-align: center;
+            text-decoration: none;
+            border: 1px solid #005ce6;
+        }
+        hr {
+            border: 1px solid #333;
+        }
+        .imagem3 {
+            width: 1280px;
+            height: 600px;
+        }
+        .hr {
+            border: 1px solid #003380;
+        }
+        .conteudo2 {
+            background-color: #0066ff;
+            border: 1px solid #005ce6;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+    <body background="img/background.png">
         <header>
             <ul>
                 <li><a href="index.php">Início</a></li>
@@ -18,16 +82,16 @@
             </ul>
         </header>
         <div class="conteudo">
-            <h1>A Empresa SmartTech</h1>
+            <h1 class="conteudo2">Programa de Descarte -  SmartTech</h1>
             <br> <hr> <br>
-                <img class="imagem3" src="img/prog_descarte.jpg">
+            <img class="imagem3" src="img/prog_descarte.jpg">
             <label>
                 <h3>
                     <br>
                     <hr>
                     <br>
-                    <h3>
-                        Educar e Concientizar para o descarte correto de Resíduos perigosos.<br>
+                    <h3 class="conteudo2">
+                        Objetivo do Projeto<br><br>Educar e Concientizar para o descarte correto de Resíduos perigosos.<br>
                         O material, classificado como resíduo perigoso, constitui risco ambiental,<br>
                         quando descartado de forma indevida no lixo doméstico.<br>
                     </h3>
