@@ -5,6 +5,7 @@
         <title>Empresa - SmartTech</title>
     </head>
     <style>
+        
         * {
             margin: 0;
             padding: 0;
@@ -95,7 +96,6 @@
             </label>
             <img class="imagem" src="img/brancohd.png">
             <br><br><hr>
-
         </div>
         <footer>
             <label>Todos os Direitos Reservados @ <a href="index.php">SmartTech</a> 2011-2017 &copy</label>

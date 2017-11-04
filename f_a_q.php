@@ -5,6 +5,7 @@
         <title>F.A.Q - SmartTech</title>
     </head>
     <style>
+        
         * {
             margin: 0;
             padding: 0;
